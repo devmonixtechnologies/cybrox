@@ -22,7 +22,7 @@ A comprehensive, powerful anti-hacking system built entirely in shell scripting 
 - **Memory Forensics & Process Injection Detection** - Advanced memory analysis and injection detection
 - **Rootkit Detection & System Integrity** - Comprehensive rootkit detection and integrity verification
 - **Ransomware Detection & File Protection** - Real-time ransomware detection and file protection
-- **Threat Intelligence & IOC Database** - Advanced threat intelligence and Indicators of Compromise
+- **Threat Intelligence & IOC Database** - Advanced threat intelligence and Indicators of Compromises
 - **Advanced Pegasus & Spyware Defense** - Specialized detection against Pegasus, NSO Group, and advanced spywares
 
 ### Key Capabilities
