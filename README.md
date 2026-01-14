@@ -23,7 +23,7 @@ A comprehensive, powerful anti-hacking system built entirely in shell scripting 
 - **Rootkit Detection & System Integrity** - Comprehensive rootkit detection and integrity verification
 - **Ransomware Detection & File Protection** - Real-time ransomware detection and file protection
 - **Threat Intelligence & IOC Database** - Advanced threat intelligence and Indicators of Compromise
-- **Advanced Pegasus & Spyware Defense** - Specialized detection against Pegasus, NSO Group, and advanced spyware
+- **Advanced Pegasus & Spyware Defense** - Specialized detection against Pegasus, NSO Group, and advanced spywares
 
 ### Key Capabilities
 - ✅ Real-time threat detection and alerting
