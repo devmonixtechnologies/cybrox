@@ -44,7 +44,7 @@ A comprehensive, powerful anti-hacking system built entirely in shell scripting 
 - ✅ Advanced threat intelligence and IOC database
 - ✅ Advanced Pegasus and NSO Group spyware defense
 - ✅ Zero-click exploit detection and prevention
-- ✅ Automated IP blocking and firewall management
+- ✅ Automated IP blocking and firewall managements
 
 ## 🚀 Quick Start
 
